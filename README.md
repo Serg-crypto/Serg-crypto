@@ -10,7 +10,7 @@
 
 <h3 align="center">I have knowledge in:</h3>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+<div style="display: flex; gap: 15px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
@@ -25,8 +25,8 @@
 
 
 
-<p align="center"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="vmware-badge"</p>
-<p align="center"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali-linux-badge"></p>
+<p align="left"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="vmware-badge"</p>
+<p align="left"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali-linux-badge"></p>
 
 
 <!--
