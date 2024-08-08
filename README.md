@@ -10,7 +10,7 @@
 
 <h3 align="center">I have knowledge in:</h3>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
