@@ -10,7 +10,7 @@
 
 <h3 align="center">I have knowledge in:</h3>
 
-<div style="margin: 0 auto;">
+<div style="margin: 0 20%">
   <div style="display: inline-block; margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </div>
