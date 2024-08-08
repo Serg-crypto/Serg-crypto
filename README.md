@@ -24,9 +24,11 @@
 </div>
 
 
+<div align=""left>
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="vmware-badge">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali-linux-badge">
+</div>
 
-<p align="left"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="vmware-badge"</p>
-<p align="left"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali-linux-badge"></p>
 
 
 <!--
