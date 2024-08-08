@@ -24,7 +24,7 @@
 </div>
 
 
-<div style= "margin: 10px 0;">
+<div margin=" 20px 0">
   <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="vmware-badge">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali-linux-badge">
 </div>
