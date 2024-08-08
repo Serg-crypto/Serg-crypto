@@ -11,7 +11,7 @@
 <h3 align="center">I have knowledge in:</h3>
 
 <p align="center">
-  <table border="0">
+  <table border-collapse: collapse;>
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" margin="0 15px"/></td>
       <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" margin="0 15px"/></td>
