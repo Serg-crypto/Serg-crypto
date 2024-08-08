@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sergio 👋</h1> 
+## I'm a passionate developer who loves to code and learn things everyday.
+##![image](https://github.com/user-attachments/assets/a5a21dbf-0dfd-4e98-b489-f25cc0111293)
+
+<p align="left">I love everything related to technology, but I'm also passionate about the world of finance and markets.</p>
+<img src="https://img.icons8.com/?size=100&id=63192&format=png&color=000000" alt="Bitcoin logo">
+
 
 <!--
 **Serg-crypto/Serg-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
