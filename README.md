@@ -2,7 +2,7 @@
 <h3 I'm a passionate developer who loves to code and learn new things everyday.</h3>
 
 
-<h4 align="left">I love everything related to technology, but I'm also passionate about the world of finance and markets. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/150px-Bitcoin.svg.png" alt="Bitcoin logo" style="width:20px; height:20px;"></h4>
+<h4 align="left">I love everything related to technology and I'm also passionate about the world of finance and markets. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/150px-Bitcoin.svg.png" alt="Bitcoin logo" style="width:20px; height:20px;"></h4>
 
 
 <p>My codewars <a href="https://www.codewars.com/users/Srg-cr">account!</a></p>
