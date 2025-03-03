@@ -8,7 +8,7 @@
 <p>My codewars <a href="https://www.codewars.com/users/Srg-cr">account!</a></p>
 
 
-<h3 align="center">I have knowledge in:</h3>
+<h3 align="center">I've knowledge in:</h3>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
