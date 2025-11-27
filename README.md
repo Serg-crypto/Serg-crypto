@@ -5,10 +5,8 @@
 <h4 align="left">I love everything related to technology and, I'm also passionate about the world of finance and markets. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/150px-Bitcoin.svg.png" alt="Bitcoin logo" style="width:20px; height:20px;"></h4>
 
 
-<p>My codewars <a href="https://www.codewars.com/users/Srg-cr">account!</a></p>
 
 
-<h3 align="center">I have knowledge in:</h3>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
